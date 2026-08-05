@@ -5,7 +5,8 @@ I compiled this from [this Gist GitHub thing](https://gist.github.com/cliffano/7
 
 # The actual List :3
 > [!IMPORTANT]
-> This is incomplete :3/
+> This is incomplete 3:
+
 
 [26.2](https://piston-data.mojang.com/v1/objects/823e2250d24b3ddac457a60c92a6a941943fcd6a/server.jar)<br/>
 [26.1.2](https://piston-data.mojang.com/v1/objects/97ccd4c0ed3f81bbb7bfacddd1090b0c56f9bc51/server.jar)<br/>
@@ -100,7 +101,7 @@ I compiled this from [this Gist GitHub thing](https://gist.github.com/cliffano/7
 [1.5.2](https://launcher.mojang.com/v1/objects/f9ae3f651319151ce99a0bfad6b34fa16eb6775f/server.jar)<br/>
 [1.5.1](https://launcher.mojang.com/v1/objects/d07c71ee2767dabb79fb32dad8162e1b854d5324/server.jar)<br/>
 [1.5](https://launcher.mojang.com/v1/objects/aedad5159ef56d69c5bcf77ed141f53430af43c3/server.jar)<br/>
-[1.4.7](https://launcher.mojang.com/v1/objects/2f0ec8efddd2f2c674c77be9ddb370b727dec676/server.jar) (1.4.6 and 1.4.5 were switched in the original one, please make a pr fixing these specific two versions. I don't know if I switched the actual links around)<br/>
+[1.4.7](https://launcher.mojang.com/v1/objects/2f0ec8efddd2f2c674c77be9ddb370b727dec676/server.jar) <sub>(1.4.6 and 1.4.5 were switched in the original one, please make a pr fixing these specific two versions. I don't know if I switched the actual links around)</sub><br/>
 [1.4.6](https://launcher.mojang.com/v1/objects/a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c/server.jar)<br/>
 [1.4.5](https://launcher.mojang.com/v1/objects/c12fd88a8233d2c517dbc8196ba2ae855f4d36ea/server.jar)<br/>
 [1.4.4](https://launcher.mojang.com/v1/objects/4215dcadb706508bf9d6d64209a0080b9cee9e71/server.jar)<br/>
@@ -116,4 +117,4 @@ I compiled this from [this Gist GitHub thing](https://gist.github.com/cliffano/7
 the end for now since the original Gist GitHub repository only goes this far :3 
 
 I will get to this another day :3
-submit a pull request if you found another full release '''server.jar'''
+submit a pull request if you found another full release server.jar

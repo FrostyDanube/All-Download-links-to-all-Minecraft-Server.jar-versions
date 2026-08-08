@@ -113,6 +113,7 @@ I compiled this from [this Gist GitHub thing](https://gist.github.com/cliffano/7
 [1.3.1](https://launcher.mojang.com/v1/objects/82563ce498bfc1fc8a2cb5bf236f7da86a390646/server.jar)<br/>
 [1.3](https://launcher.mojang.com/v1/objects/cb21a9aaaf599c94dd7fa1b777b2f0cc37a776c7/server.jar)<br/>
 [1.2.5](https://launcher.mojang.com/v1/objects/d8321edc9470e56b8ad5c67bbd16beba25843336/server.jar)<br/>
+[the betas](https://ia902902.us.archive.org/view_archive.php?archive=/20/items/minecraft-beta-server-jars/Minecraft%20Beta%20Server%20Jars.zips)<br/>
 
 the end for now since the original Gist GitHub repository only goes this far :3 
 
